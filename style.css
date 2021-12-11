@@ -291,6 +291,7 @@ nav{
 }
 .contact-container{
     display: flex;
+    align-items: center;
 }
 .contact-icon{
     width: 40px;
