@@ -4,7 +4,7 @@
 ## Preview
 ![Dashboard](https://i.imgur.com/DMyNEGu.jpg)
 
-[Wireframe](https://www.figma.com/file/ISKJfszhmucRYnm4tBE020/Hesegi-Sport-Karmiel?node-id=0%3A1)is available here to witness the planning stage of the project.
+[Wireframe](https://www.figma.com/file/ISKJfszhmucRYnm4tBE020/Hesegi-Sport-Karmiel?node-id=0%3A1) is available here to witness the planning stage of the project.
 
 [Live site](https://williamalb.github.io/hesegi-sport-karmiel/) is available here along with my portfolio with a reference to the site [here](https://wills-portfolio.netlify.app/).
 
